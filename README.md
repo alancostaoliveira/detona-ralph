@@ -1,5 +1,7 @@
 # 🕹️ Jogo Detona Ralph
 
+https://alancostaoliveira.github.io/detona-ralph/
+
 Um jogo de navegador estilo "Whack-a-Mole" (acerte o alvo) inspirado no personagem Ralph do filme _Detona Ralph_. O objetivo é clicar no Ralph conforme ele aparece aleatoriamente no painel para somar pontos antes que o tempo acabe.
 
 ## 🚀 Tecnologias Utilizadas
